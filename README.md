@@ -41,11 +41,60 @@ SO THAT our own site is optimized for search engines
 
 Your website must meet accessibility standards. You can achieve this completing the following:
 
-* Semantic HTML elements can be found throughout the source code
-* HTML elements follow a logical structure independent of styling and positioning
-* Image and icon elements contain accessible `alt` attributes
-* Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title
+* [x] Semantic HTML elements can be found throughout the source code
+* [x] HTML elements follow a logical structure independent of styling and positioning
+* [x] Image and icon elements contain accessible `alt` attributes
+* [x] Heading attributes fall in sequential order
+* [x] Title elements contain a concise, descriptive title
+
+### Requirements
+
+This challenge is assessed on the following criteria: 
+
+#### Technical Acceptance Criteria: 40%
+
+* Satisfies all of the above acceptance criteria plus the following code improvements:
+
+  * [x] Application's links all function correctly.
+
+  * [x] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+
+  * [x] Application's CSS file is properly commented.
+
+#### Deployment: 32%
+
+* [x] Application deployed at live URL.
+
+* [x] Application loads with no errors.
+
+* [x] Application GitHub URL submitted.
+
+* [x] GitHub repository that contains application code.
+
+#### Application Quality: 15%
+
+* [x] *I believe so* Application resembles (at least 90%) screenshots provided in the challenge instructions.
+
+#### Repository Quality: 13%
+
+* [x] Repository has a unique name.
+
+* [x] *I believe so* Repository follows best practices for file structure and naming conventions.
+
+* [x] *I believe so* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+
+* [x] *I believe so - please see commit that notes several commits were made whilst the repo was a directory which can be found in my "Bootcamp-2022-2023/004_W1_Challenge" directory* Repository contains multiple descriptive commit messages.
+
+* [x] Repository contains quality README file with description, screenshot, and link to deployed application.
+
+### Review
+
+You are required to submit the following for review:
+
+* [x] The URL of the deployed application.
+
+* [x] The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
 
 ### Resources:
 
