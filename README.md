@@ -106,7 +106,7 @@ N/A
 
 ## Usage
 
-Each section of the study guide contains notes that have been gained from the Bootcamp and personal study. If the DevTools console is opened, evidence of JS code is present and running. 
+This landing page has been used as a task to practice and be assessed on code refactoring. It also features the use of CSS, HTML, a nav bar, classes, ids, float functions, and basic website layout, as well as supporting accessibility, and using images with alternative text (for accessibility and search engine development). 
 
 
 ## Credits
@@ -120,5 +120,4 @@ MIT licence - please refer to the LICENCE in the repo.
 ---
 
 ## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+N/A
